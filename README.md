@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominykas!</h1>
 <h3 align="center">print("Live, love, laugh Python")</h3>
 
-- 🔭 I’m currently working on **a content management system for my dayjob to keep track of incoming, existing and finished orders.**
+- 🔭 I’m currently working on **a personal project that that includes Django, ElasticSearch, Redis and ReactNative.**
 
 - 🌱 I’m currently learning **more about Django and trying to learn Java as a second programming language.**
 
